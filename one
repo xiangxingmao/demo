@@ -1,1 +1,12 @@
-这篇文章主要介绍了jquery实现可横向和竖向展开的动态下滑菜单效果,以实例形式较为详细的分析了jquery实现横向与竖向展开菜单的相关技巧,非常具有实用...
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">    
+<html>    
+<head>    
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    
+<title>hello world</title>    
+</head>    
+<body style="margin:0;padding:0;">    
+<div id="Layer1" style="position:absolute; width:100%; height:100%; z-index:-1">    
+<img src="2.JPG" height="100%" width="100%"/>    
+</div>    
+</body>    
+</html>
